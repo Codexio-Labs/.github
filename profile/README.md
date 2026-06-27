@@ -1,45 +1,54 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CODEXIO%20LABS&fontSize=80&fontAlignY=35&desc=Full-Stack%20%7C%20Blockchain%20%7C%20Automation%20Engineers&descAlignY=60" />
-
-  <p><i>Building Scalable Ecosystems | Smart Contracts | Enterprise Automation</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=CODEXIO%20LABS&fontSize=80&fontAlignY=35&desc=Software%20Development%20%7C%20Full-Stack%20%7C%20Blockchain%20%7C%20Automation&descAlignY=55&descSize=18" />
+  
+  <h3>Architecting Digital Ecosystems & Next-Gen Web Solutions</h3>
+  <p><i>“Transforming complex problems into clean, efficient, and scalable code.”</i></p>
 </div>
 
 ---
 
 ## 🛠 Tech Arsenal
 
-### 💻 Full-Stack Development
+### 💻 Software Development & Full-Stack Engineering
 <div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-### ⛓ Blockchain & Software Engineering
+### ⛓ Blockchain & Web3 Engineering
+<div align="center">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
+</div>
+
+### 🚀 Platforms, Automation & DevOps
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=white" />
-</div>
-
-### 🚀 Platforms & Automation
-<div align="center">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/SEO-4691f6?style=for-the-badge&logo=google-search-console&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=automattic&logoColor=white" />
 </div>
 
 ---
 
 ## ⚡ Core Competencies
-*   **Full-Stack Engineering:** End-to-end web application lifecycle management.
-*   **Blockchain Solutions:** Developing decentralized apps, smart contracts, and Web3 integration.
-*   **Automation & Scripting:** Utilizing Python to streamline workflows and improve business efficiency.
-*   **E-Commerce Strategy:** Custom development and optimization for Shopify and WordPress ecosystems.
-*   **Performance & SEO:** Technical SEO audits and speed optimization for high-conversion web presence.
+
+| Domain | Expertise |
+| :--- | :--- |
+| **Software Development** | System architecture, API design, and scalable backend infrastructures using modern software engineering principles. |
+| **Full-Stack Engineering** | End-to-end web application lifecycle management, from interactive UI/UX to robust server-side logic and database management. |
+| **Blockchain Solutions** | Developing decentralized apps (dApps), secure smart contracts, and seamless Web3 wallet integrations. |
+| **Automation & Scripting** | Utilizing Python to build custom scripts, streamline business workflows, and improve overall operational efficiency. |
+| **E-Commerce Strategy** | Custom development, theme customization, and conversion optimization for Shopify and WordPress ecosystems. |
+| **Performance & SEO** | Technical SEO audits, Core Web Vitals optimization, and high-speed web presence management. |
 
 ---
 
@@ -47,12 +56,22 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Codexio-Labs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codexio-Labs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codexio-Labs&theme=radical&hide_border=true&background=0D1117" />
 </div>
 
 ---
 
 <div align="center">
-  <h3>Let’s Build the Future</h3>
-  <p>We solve complex problems through clean, efficient, and scalable code.</p>
-  <a href="mailto:your-email@example.com">📧 Contact Us</a> | <a href="https://your-website.com">🌐 Visit Site</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=120&section=footer"/>
+  
+  <h3>Let’s Build the Future Together</h3>
+  
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Codexio%20Labs-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://your-website.com">
+    <img src="https://img.shields.io/badge/Website-Visit%20Us-00D1D1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </div>

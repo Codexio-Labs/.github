@@ -1,42 +1,46 @@
-# 🚀 Welcome to Codexio Labs
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CODEXIO%20LABS&fontSize=80&fontAlignY=35&desc=Engineering%20Scalable%20Digital%20Futures&descAlignY=60" />
 
-**Building the future of the web, one commit at a time.**
-
-Codexio Labs is a full-stack development collective focused on crafting high-performance, scalable, and secure digital solutions. From intuitive frontend interfaces to robust backend architectures and decentralized blockchain integration, we turn complex problems into elegant code.
-
----
-
-## 🛠 Our Tech Stack
-
-We leverage modern tools to ensure speed, security, and scalability in every project.
-
-### Frontend
-*   **React** – Building dynamic, responsive user experiences.
-*   **Tailwind CSS** – Styling for modern, consistent, and performant UIs.
-
-### Backend & Infrastructure
-*   **Node.js / PHP** – Scalable server-side development.
-*   **Cloud Architecture** – Optimized deployments for high availability.
-
-### Innovation
-*   **Blockchain & Crypto** – Developing decentralized applications and smart contracts.
-*   **AI Integration** – Implementing smart, AI-driven features for next-gen products.
+  <p><i>Full-Stack Development | Blockchain Architecture | High-Performance Web</i></p>
+</div>
 
 ---
 
-## ⚡ Our Philosophy
-*   **Performance First:** We believe speed is a feature.
-*   **Clean Architecture:** Code should be as easy to maintain as it is to build.
-*   **Scalability:** We build for your growth, not just for today.
+## 🚀 About Us
+**Codexio Labs** is a boutique engineering firm dedicated to building high-performance, secure, and user-centric digital products. We bridge the gap between complex backend logic and seamless, intuitive frontend experiences. 
+
+> "Code is more than just instructions; it is the infrastructure of the future."
 
 ---
 
-## 📬 Let's Collaborate
-We are always open to discussing new projects, technical challenges, or potential partnerships.
-
-*   **Website:** [Your Website Link Here]
-*   **Email:** [Your Contact Email Here]
-*   **Location:** Based in Gurugram, India 📍
+## 🛠 Tech Arsenal
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+</div>
 
 ---
-*Codexio Labs | Crafting Digital Excellence*
+
+## 📊 Engineering Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Codexio-Labs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codexio-Labs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</div>
+
+---
+
+## ⚡ Current Focus
+*   **Transitioning** to robust backend architectures for enterprise-grade scalability.
+*   **Integrating** blockchain protocols to drive decentralized innovation.
+*   **Optimizing** frontend performance for maximum conversion and speed.
+
+---
+
+<div align="center">
+  <h3>Let’s Build Together</h3>
+  <p>Open for collaborative opportunities and strategic technical partnerships.</p>
+  <a href="mailto:your-email@example.com">📧 Contact Us</a> | <a href="https://your-website.com">🌐 Visit Site</a>
+</div>

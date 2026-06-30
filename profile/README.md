@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=CODEXIO%20LABS&fontSize=80&fontAlignY=35&desc=Software%20Development%20%7C%20Full-Stack%20%7C%20Blockchain%20%7C%20Automation&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:fbcfe8,100:fef3c7&height=220&section=header&text=CODEXIO%20LABS&fontSize=80&fontAlignY=35&desc=Software%20Development%20%7C%20Full-Stack%20%7C%20Blockchain%20%7C%20Automation&descAlignY=55&descSize=18" />
   
   <h3>Architecting Digital Ecosystems & Next-Gen Web Solutions</h3>
   <p><i>“Transforming complex problems into clean, efficient, and scalable code.”</i></p>
@@ -41,14 +41,14 @@
 
 ## ⚡ Core Competencies
 
-| Domain | Expertise |
+| Focus Domain | Specialized Expertise & Technical Execution |
 | :--- | :--- |
-| **Software Development** | System architecture, API design, and scalable backend infrastructures using modern software engineering principles. |
-| **Full-Stack Engineering** | End-to-end web application lifecycle management, from interactive UI/UX to robust server-side logic and database management. |
-| **Blockchain Solutions** | Developing decentralized apps (dApps), secure smart contracts, and seamless Web3 wallet integrations. |
-| **Automation & Scripting** | Utilizing Python to build custom scripts, streamline business workflows, and improve overall operational efficiency. |
-| **E-Commerce Strategy** | Custom development, theme customization, and conversion optimization for Shopify and WordPress ecosystems. |
-| **Performance & SEO** | Technical SEO audits, Core Web Vitals optimization, and high-speed web presence management. |
+| 💻 **Software Development** | System architecture, API design, and scalable backend infrastructures using modern software engineering principles. |
+| 🌐 **Full-Stack Engineering** | End-to-end web application lifecycle management, from interactive UI/UX to robust server-side logic and database management. |
+| ⛓️ **Blockchain Solutions** | Developing decentralized apps (dApps), secure smart contracts, and seamless Web3 wallet integrations. |
+| ⚙️ **Automation & Scripting** | Utilizing Python to build custom scripts, streamline business workflows, and improve overall operational efficiency. |
+| 🛍️ **E-Commerce Strategy** | Custom development, theme customization, and conversion optimization for Shopify and WordPress ecosystems. |
+| 📈 **Performance & SEO** | Technical SEO audits, Core Web Vitals optimization, and high-speed web presence management. |
 
 ---
 
@@ -63,7 +63,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:fbcfe8,100:fef3c7&height=120&section=footer"/>
   
   <h3>Let’s Build the Future Together</h3>
   
